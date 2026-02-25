@@ -1,16 +1,30 @@
-## Hi there 👋
+# Aanand
 
-<!--
-**Aanand127/Aanand127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer
 
-Here are some ideas to get you started:
+I'm currently a 3rd year at Georgia Tech majoring in CS!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌎 I'm based in [Your Location]
+* 💻 See my portfolio at [yourportfolio.com]
+* 📧 You can contact me at [your-email@gatech.edu]
+
+---
+
+### My Tech Skills:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,java,js,ts,vscode,react,html,nextjs,css,tailwind,vite,firebase,pr" />
+</p>
+
+---
+
+### My GitHub Stats:
+
+<p align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</a>
+</p>
