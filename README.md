@@ -5,7 +5,7 @@
 I'm currently a 3rd year at Georgia Tech majoring in CS with a focus on Artifical Intelligence and Psycology!
 
 * 🌎 I'm based in Atlanta
-* 💻 See my portfolio [here]([url](https://aanandsuryavanshi.vercel.app/))
+* 💻 See my portfolio [here]((https://aanandsuryavanshi.vercel.app/))
 * 📧 You can contact me at aanandsuryaa02@gmail.com
 
 ---
