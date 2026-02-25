@@ -13,7 +13,7 @@ I'm currently a 3rd year at Georgia Tech majoring in CS with a focus on Artifica
 ### My Tech Skills:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,java,ts,vscode,react,html,nextjs,css,tailwind,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,git,java,ts,vscode,react,html,nextjs,css,tailwind,firebase" />
 </p>
 
 ---
